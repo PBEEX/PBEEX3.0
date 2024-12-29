@@ -31,7 +31,7 @@ const GetInvolved: React.FC = () => {
             <CTA_Button
               text="Become a Sponsor"
               className="text-center px-11 w-full" 
-              href="mailto:profbamiroengineeringexpo@gmail.com?subject=Become a Sponsor&body=I am interested in sponsoring PBEEX. Please provide more details."
+              href="mailto:sponsorship@pbeex.tech?subject=Become a Sponsor&body=I am interested in sponsoring PBEEX. Please provide more details."
               target='_blank'
             />
           </div>
