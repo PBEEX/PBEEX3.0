@@ -21,7 +21,7 @@ const Footer: React.FC = () => {
           </div>
           <div className="flex space-x-4">
             <a
-              href="https://www.instagram.com/pbeex_official"
+              href="https://facebook.com/pbeex"
               className="hover:scale-110 transition-transform"
             >
               <Image 
