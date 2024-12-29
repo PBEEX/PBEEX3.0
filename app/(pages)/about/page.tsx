@@ -20,7 +20,7 @@ const About = () => {
           <div className='my-12'>
             <div className='font-rebas text-6xl pb-6'>
               <span className='border-t-4 border-brandred text-darkblue'>MEET OUR</span>
-              <span className='text-brandred'> FOUNDER</span>
+              <span className='text-brandred'> EPONYM</span>
             </div>
             <div className='flex flex-col md:flex-row justify-center items-center gap-16'>
               <Image
